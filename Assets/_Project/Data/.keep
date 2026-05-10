@@ -1,3 +1,0 @@
-# Data 目录
-# 存放 ScriptableObject 实例（SO_ItemDef_xxx、SO_AbilityDef_xxx 等）
-# 对标 UE 的 DataAsset 实例存放位置
