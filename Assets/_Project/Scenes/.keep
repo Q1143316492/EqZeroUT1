@@ -1,0 +1,3 @@
+# Scenes 目录
+# 在 Unity Editor 中手动创建：Bootstrap.unity / MainMenu.unity / Gameplay_01.unity
+# 注意把 Build Settings 里的顺序设为：Bootstrap(0) → MainMenu(1) → Gameplay_01(2)
